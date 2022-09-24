@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Rajasekar",
+    "dateOfBirth": "20-Jan-1998",
+    "typeOfAccount": "SavingsAccount",
+    "pin": "3245",
+    "balance": "19000"
+  },
+  {
+    "name": "JeevaPrakash",
+    "dateOfBirth": "10-Mar-2002",
+    "typeOfAccount": "SavingsAccount",
+    "pin": "1235",
+    "balance": "21000"
+  },
+  {
+    "name": "Sethu",
+    "dateOfBirth": "20-Jul-1999",
+    "typeOfAccount": "CurrentAccount",
+    "pin": "1945",
+    "balance": "29000"
+  },
+  {
+    "name": "Pavan",
+    "dateOfBirth": "20-Sep-1999",
+    "typeOfAccount": "CurrentAccount",
+    "pin": "1947",
+    "balance": "39000"
+  },
+  {
+    "name": "Aadhityan",
+    "dateOfBirth": "20-Aug-2000",
+    "typeOfAccount": "CurrentAccount",
+    "pin": "1645",
+    "balance": "20000"
+  },
+  {
+    "name": "Prithvi",
+    "dateOfBirth": "20-Jul-1998",
+    "typeOfAccount": "SavingsAccount",
+    "pin": "1845",
+    "balance": "27000"
+  },
+  {
+    "name": "Baskaran",
+    "dateOfBirth": "20-Jul-1996",
+    "typeOfAccount": "CurrentAccount",
+    "pin": "1081",
+    "balance": "39000"
+  },
+  {
+    "name": "Charan",
+    "dateOfBirth": "20-Jul-2001",
+    "typeOfAccount": "SavingsAccount",
+    "pin": "1915",
+    "balance": "26000"
+  },
+  {
+    "name": "John",
+    "dateOfBirth": "20-Jul-1999",
+    "typeOfAccount": "SavingsAccount",
+    "pin": "1705",
+    "balance": "200"
+  },
+  {
+    "name": "Vishnu",
+    "dateOfBirth": "20-Jul-1978",
+    "typeOfAccount": "CurrentAccount",
+    "pin": "1075",
+    "balance": "290000"
+  }
+]
